@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Web_WorkerService/Web_WorkerService.csproj" />
+  <Project Path="WorkerService1/WorkerService1.csproj" />
+</Solution>
